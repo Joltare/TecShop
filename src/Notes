@@ -3,14 +3,3 @@
 	* @since   2018-11
 **/
 
-
-
-I had a lot more working with the main screen saving to and loading from a ProductList.xml file but i messed up the code and couldnt fix it in time.
-
-My plan was a computer hardware store where you can login / register once logged in if you had admin access the the main screen would allow you to add remove and edit stock in the inventory.
-
-With just customer access you would have been able to browse items in stock and add them to a basket with a checkout option which would add items and give a reciept.
-
-The video you posted on moodle for the scene changes in javafx was by a guy named Jaret Wright i got most of my ideas inspiratrion from his github.
-
-https://github.com/JaretWright/GUIDemo
